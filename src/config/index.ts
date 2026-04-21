@@ -8,9 +8,13 @@ export const SITE_CONFIG: SiteConfig = {
   lang: "en",
   siteLogo: "/alejandro-small.jpg",
   navLinks: [
+    { text: "Executive Summary", href: "#executivesummary" },
+    { text: "Selected Achievements", href: "#selectedachievements" },
+    { text: "Core Competencies", href: "#corecompetencies" },
     { text: "Experience", href: "#experience" },
-    { text: "Projects", href: "#projects" },
-    { text: "About", href: "#about" },
+    { text: "Education", href: "#education" },
+    { text: "Leadership Philosophy", href: "#leadershipphilosophy" },
+    { text: "Technical Skills", href: "#technicalskills" },
   ],
   socialLinks: [
     { text: "Twitter", href: "https://github.com/immois/astro-zen" },
@@ -30,6 +34,36 @@ export const SITE_CONTENT: SiteContent = {
     summary:
       "Marketing Director with 18+ years driving measurable revenue growth in healthcare and medical device sectors, specializing in turning underperformingclinical businesses into profitable growth engines.",
     email: "yosapatteichanuntasith@gmail.com",
+  },
+  executivesummary: {
+    summary:
+      "Marketing Director with 18+ years driving measurable revenue growth in healthcare and medical device sectors, specializing in turning underperforming clinical businesses into profitable growth engines.",
+      
+      "Proven expertise in building scalable revenue systems for multi-branch clinic operations by engineering the 4-lever model: Traffic × Conversion × Case Value × Retention — delivering average revenue growth of 120%+ within 12-18 months.",
+
+      "Track record of owning P&L units up to ฿24M+, leading cross-functional teams of 30+, and implementing data-driven marketing infrastructures (CRM/CDP, predictive analytics, KPI frameworks) that create sustainable competitive advantages.",
+
+      "Specialized in high-stakes turnarounds: took dental business unit from declining market position to category leadership (+160% revenue, +1,900% product adoption) through strategic repositioning and KOL network development.",
+  },
+    selectedachievements: {
+    summary:
+      "Marketing Director with 18+ years driving measurable revenue growth in healthcare and medical device sectors, specializing in turning underperforming clinical businesses into profitable growth engines.",
+      
+      "Proven expertise in building scalable revenue systems for multi-branch clinic operations by engineering the 4-lever model: Traffic × Conversion × Case Value × Retention — delivering average revenue growth of 120%+ within 12-18 months.",
+
+      "Track record of owning P&L units up to ฿24M+, leading cross-functional teams of 30+, and implementing data-driven marketing infrastructures (CRM/CDP, predictive analytics, KPI frameworks) that create sustainable competitive advantages.",
+
+      "Specialized in high-stakes turnarounds: took dental business unit from declining market position to category leadership (+160% revenue, +1,900% product adoption) through strategic repositioning and KOL network development.",
+  },
+    corecompetencies: {
+    summary:
+      "Marketing Director with 18+ years driving measurable revenue growth in healthcare and medical device sectors, specializing in turning underperforming clinical businesses into profitable growth engines.",
+      
+      "Proven expertise in building scalable revenue systems for multi-branch clinic operations by engineering the 4-lever model: Traffic × Conversion × Case Value × Retention — delivering average revenue growth of 120%+ within 12-18 months.",
+
+      "Track record of owning P&L units up to ฿24M+, leading cross-functional teams of 30+, and implementing data-driven marketing infrastructures (CRM/CDP, predictive analytics, KPI frameworks) that create sustainable competitive advantages.",
+
+      "Specialized in high-stakes turnarounds: took dental business unit from declining market position to category leadership (+160% revenue, +1,900% product adoption) through strategic repositioning and KOL network development.",
   },
   experience: [
     {
