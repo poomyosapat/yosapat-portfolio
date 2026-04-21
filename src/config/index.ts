@@ -121,14 +121,13 @@ export const SITE_CONTENT: SiteContent = {
   ],
   about: {
     description: `
-     Marketing Director with 18+ years driving measurable revenue growth in healthcare and medical device sectors, specializing in turning underperforming
-clinical businesses into profitable growth engines.
-Proven expertise in building scalable revenue systems for multi-branch clinic operations by engineering the 4-lever model: Traffic × Conversion × Case
-Value × Retention — delivering average revenue growth of 120%+ within 12-18 months.
-Track record of owning P&L units up to ฿24M+, leading cross-functional teams of 30+, and implementing data-driven marketing infrastructures (CRM/CDP,
-predictive analytics, KPI frameworks) that create sustainable competitive advantages.
-Specialized in high-stakes turnarounds: took dental business unit from declining market position to category leadership (+160% revenue, +1,900% product
-adoption) through strategic repositioning and KOL network development.
+     Marketing Director with 18+ years driving measurable revenue growth in healthcare and medical device sectors, specializing in turning underperforming clinical businesses into profitable growth engines.
+
+     Proven expertise in building scalable revenue systems for multi-branch clinic operations by engineering the 4-lever model: Traffic × Conversion × Case Value × Retention — delivering average revenue growth of 120%+ within 12-18 months.
+
+     Track record of owning P&L units up to ฿24M+, leading cross-functional teams of 30+, and implementing data-driven marketing infrastructures (CRM/CDP, predictive analytics, KPI frameworks) that create sustainable competitive advantages.
+
+     Specialized in high-stakes turnarounds: took dental business unit from declining market position to category leadership (+160% revenue, +1,900% product adoption) through strategic repositioning and KOL network development.
     `,
     image: "/alejandro-big.jpg",
   },
