@@ -28,14 +28,7 @@ export const SITE_CONTENT: SiteContent = {
     name: "Yosapat Teichanuntasith",
     specialty: "Marketing Director | Clinical Revenue Growth | P&L Owner | Healthcare & Medical Device",
     summary:
-      "Marketing Director with 18+ years driving measurable revenue growth in healthcare and medical device sectors, specializing in turning underperforming
-clinical businesses into profitable growth engines.
-Proven expertise in building scalable revenue systems for multi-branch clinic operations by engineering the 4-lever model: Traffic × Conversion × Case
-Value × Retention — delivering average revenue growth of 120%+ within 12-18 months.
-Track record of owning P&L units up to ฿24M+, leading cross-functional teams of 30+, and implementing data-driven marketing infrastructures (CRM/CDP,
-predictive analytics, KPI frameworks) that create sustainable competitive advantages.
-Specialized in high-stakes turnarounds: took dental business unit from declining market position to category leadership (+160% revenue, +1,900% product
-adoption) through strategic repositioning and KOL network development.",
+      "Marketing Director with 18+ years driving measurable revenue growth in healthcare and medical device sectors, specializing in turning underperformingclinical businesses into profitable growth engines.",
     email: "yosapatteichanuntasith@gmail.com",
   },
   experience: [
@@ -94,9 +87,14 @@ adoption) through strategic repositioning and KOL network development.",
   ],
   about: {
     description: `
-      Hi, I’m Alejandro Múnez, a passionate Mobile and Web Developer with a knack for crafting seamless digital experiences. With a strong background in both Android and iOS development, as well as front-end web technologies, I thrive in the intersection where creativity meets technology.
-
-      Over the years, I’ve honed my skills in building robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what’s possible. My projects range from innovative mobile applications to responsive web designs, all with a focus on performance, security, and scalability.
+     Marketing Director with 18+ years driving measurable revenue growth in healthcare and medical device sectors, specializing in turning underperforming
+clinical businesses into profitable growth engines.
+Proven expertise in building scalable revenue systems for multi-branch clinic operations by engineering the 4-lever model: Traffic × Conversion × Case
+Value × Retention — delivering average revenue growth of 120%+ within 12-18 months.
+Track record of owning P&L units up to ฿24M+, leading cross-functional teams of 30+, and implementing data-driven marketing infrastructures (CRM/CDP,
+predictive analytics, KPI frameworks) that create sustainable competitive advantages.
+Specialized in high-stakes turnarounds: took dental business unit from declining market position to category leadership (+160% revenue, +1,900% product
+adoption) through strategic repositioning and KOL network development.
     `,
     image: "/alejandro-big.jpg",
   },
