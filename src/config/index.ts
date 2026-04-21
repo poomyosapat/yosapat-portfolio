@@ -2,9 +2,9 @@ import type { SiteConfig, SiteContent } from "../types";
 
 export const SITE_CONFIG: SiteConfig = {
   title: "Yosapat Teichanuntasith — Marketing Director",
-  author: "Alejandro Múnez Cuntez",
+  author: "Yosapat Teichanuntasith",
   description:
-    "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+    "Marketing Director | Clinical Revenue Growth | P&L Owner | Healthcare & Medical Device",
   lang: "en",
   siteLogo: "/alejandro-small.jpg",
   navLinks: [
@@ -25,11 +25,18 @@ export const SITE_CONFIG: SiteConfig = {
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
-    name: "Alejandro Múnez",
-    specialty: "Mobile & Web Developer",
+    name: "Yosapat Teichanuntasith",
+    specialty: "Marketing Director | Clinical Revenue Growth | P&L Owner | Healthcare & Medical Device",
     summary:
-      "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
-    email: "example@email.com",
+      "Marketing Director with 18+ years driving measurable revenue growth in healthcare and medical device sectors, specializing in turning underperforming
+clinical businesses into profitable growth engines.
+Proven expertise in building scalable revenue systems for multi-branch clinic operations by engineering the 4-lever model: Traffic × Conversion × Case
+Value × Retention — delivering average revenue growth of 120%+ within 12-18 months.
+Track record of owning P&L units up to ฿24M+, leading cross-functional teams of 30+, and implementing data-driven marketing infrastructures (CRM/CDP,
+predictive analytics, KPI frameworks) that create sustainable competitive advantages.
+Specialized in high-stakes turnarounds: took dental business unit from declining market position to category leadership (+160% revenue, +1,900% product
+adoption) through strategic repositioning and KOL network development.",
+    email: "yosapatteichanuntasith@gmail.com",
   },
   experience: [
     {
